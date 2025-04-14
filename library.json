@@ -1,54 +1,54 @@
 [
   {
-    "title": "The Project Gutenberg eBook of Peter Pan, by James M. Barrie",
-    "author": "by J. M. Barrie [James Matthew Barrie]",
+    "title": "Peter Pan",
+    "author": "J. M. Barrie",
     "year": 2025,
     "category": "Morality & Cautionary Lessons",
     "cover_image": "https://www.gutenberg.org/files/16/16-h/images/cover.jpg",
     "link": "https://www.gutenberg.org/files/16/16-h/16-h.htm",
-    "summary": "A story titled 'The Project Gutenberg eBook of Peter Pan, by James M. Barrie' written by by J. M. Barrie [James Matthew Barrie].",
+    "summary": "The Project Gutenberg eBook of Peter Pan, by James M.",
     "reading_time": "~252 min",
     "age_category": "10\u201314",
     "characters": [
       {
-        "name": "Abandoning",
-        "description": "Abandoning appears in the story and plays a role that reflects their motivations or growth."
+        "name": "Peter",
+        "description": "Peter is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "About",
-        "description": "About appears in the story and plays a role that reflects their motivations or growth."
+        "name": "Wendy",
+        "description": "Wendy is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "About Project",
-        "description": "About Project appears in the story and plays a role that reflects their motivations or growth."
+        "name": "The",
+        "description": "The is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "Above",
-        "description": "Above appears in the story and plays a role that reflects their motivations or growth."
+        "name": "Hook",
+        "description": "Hook is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "Absolutely",
-        "description": "Absolutely appears in the story and plays a role that reflects their motivations or growth."
+        "name": "John",
+        "description": "John is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "Additional",
-        "description": "Additional appears in the story and plays a role that reflects their motivations or growth."
+        "name": "She",
+        "description": "She is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "Adventures",
-        "description": "Adventures appears in the story and plays a role that reflects their motivations or growth."
+        "name": "Darling",
+        "description": "Darling is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "Affrighted",
-        "description": "Affrighted appears in the story and plays a role that reflects their motivations or growth."
+        "name": "They",
+        "description": "They is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "After",
-        "description": "After appears in the story and plays a role that reflects their motivations or growth."
+        "name": "Michael",
+        "description": "Michael is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "Again",
-        "description": "Again appears in the story and plays a role that reflects their motivations or growth."
+        "name": "But",
+        "description": "But is a recurring character who appears to play a key role in the narrative."
       }
     ]
   }
