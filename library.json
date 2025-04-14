@@ -6,49 +6,78 @@
     "category": "Morality & Cautionary Lessons",
     "cover_image": "https://www.gutenberg.org/files/16/16-h/images/cover.jpg",
     "link": "https://www.gutenberg.org/files/16/16-h/16-h.htm",
-    "summary": "The Project Gutenberg eBook of Peter Pan, by James M.",
+    "summary": "Peter Pan, the boy who never grows up, whisks Wendy and her brothers to Neverland, a magical island filled with fairies, pirates, and adventure. While Peter embraces eternal childhood, Wendy struggles with the desire to nurture and mature. Their battle with Captain Hook reveals the contrast between carefree youth and the responsibilities of growing up. In the end, Wendy chooses reality, while Peter remains forever young.",
     "reading_time": "~252 min",
-    "age_category": "10\u201314",
+    "age_category": "5-8",
     "characters": [
       {
-        "name": "Peter",
-        "description": "Peter is a recurring character who appears to play a key role in the narrative."
+        "name": "Peter Pan",
+        "description": "A charismatic but reckless boy who thrives on adventure but resists maturity."
       },
       {
-        "name": "Wendy",
-        "description": "Wendy is a recurring character who appears to play a key role in the narrative."
+        "name": "Wendy Darling",
+        "description": "A caring and responsible girl who loves storytelling and grapples with her role as a 'mother' in Neverland."
       },
+      {
+        "name": "Captain Hook",
+        "description": "A vengeful and dramatic pirate obsessed with defeating Peter. He fears time, symbolized by a ticking crocodile."
+      },
+      {
+        "name": "Tinker Bell",
+        "description": "A feisty, fiercely loyal fairy with a jealous streak, but ultimately protective of Peter."
+      }
+    ]
+  },
+  {
+    "title": "Grimms\u00e2\u0080\u0099 Fairy Tales",
+    "author": "By Jacob Grimm and Wilhelm Grimm",
+    "year": 2025,
+    "category": "Morality & Cautionary Lessons",
+    "cover_image": "https://www.gutenberg.org/files/2591/2591-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/2591/2591-h/2591-h.htm",
+    "summary": "The Project Gutenberg eBook of Grimms\u00e2\u0080\u0099 Fairy Tales, by Jacob Grimm and Wilhelm Grimm The Project Gutenberg eBook of Grimms\u00e2\u0080\u0099 Fairy Tales, by Jacob Grimm and Wilhelm Grimm This eBook is for the use of anyone anywhere in the United States and\r\nmost other parts of the world at no cost and with almost no restrictions\r\nwhatsoever.",
+    "reading_time": "~520 min",
+    "age_category": "10\u201314",
+    "characters": [
       {
         "name": "The",
         "description": "The is a recurring character who appears to play a key role in the narrative."
       },
       {
-        "name": "Hook",
-        "description": "Hook is a recurring character who appears to play a key role in the narrative."
-      },
-      {
-        "name": "John",
-        "description": "John is a recurring character who appears to play a key role in the narrative."
-      },
-      {
-        "name": "She",
-        "description": "She is a recurring character who appears to play a key role in the narrative."
-      },
-      {
-        "name": "Darling",
-        "description": "Darling is a recurring character who appears to play a key role in the narrative."
-      },
-      {
-        "name": "They",
-        "description": "They is a recurring character who appears to play a key role in the narrative."
-      },
-      {
-        "name": "Michael",
-        "description": "Michael is a recurring character who appears to play a key role in the narrative."
+        "name": "Then",
+        "description": "Then is a recurring character who appears to play a key role in the narrative."
       },
       {
         "name": "But",
         "description": "But is a recurring character who appears to play a key role in the narrative."
+      },
+      {
+        "name": "When",
+        "description": "When is a recurring character who appears to play a key role in the narrative."
+      },
+      {
+        "name": "And",
+        "description": "And is a recurring character who appears to play a key role in the narrative."
+      },
+      {
+        "name": "What",
+        "description": "What is a recurring character who appears to play a key role in the narrative."
+      },
+      {
+        "name": "Hans",
+        "description": "Hans is a recurring character who appears to play a key role in the narrative."
+      },
+      {
+        "name": "You",
+        "description": "You is a recurring character who appears to play a key role in the narrative."
+      },
+      {
+        "name": "Now",
+        "description": "Now is a recurring character who appears to play a key role in the narrative."
+      },
+      {
+        "name": "She",
+        "description": "She is a recurring character who appears to play a key role in the narrative."
       }
     ]
   }
