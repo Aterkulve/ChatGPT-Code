@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "title": "The Project Gutenberg eBook of Peter Pan, by James M. Barrie",
+    "author": "by J. M. Barrie [James Matthew Barrie]",
+    "year": 2025,
+    "category": "Morality & Cautionary Lessons",
+    "cover_image": "https://www.gutenberg.org/files/16/16-h/images/cover.jpg",
+    "link": "https://www.gutenberg.org/files/16/16-h/16-h.htm",
+    "summary": "A story titled 'The Project Gutenberg eBook of Peter Pan, by James M. Barrie' written by by J. M. Barrie [James Matthew Barrie].",
+    "reading_time": "~252 min",
+    "age_category": "10\u201314",
+    "characters": [
+      {
+        "name": "Abandoning",
+        "description": "Abandoning appears in the story and plays a role that reflects their motivations or growth."
+      },
+      {
+        "name": "About",
+        "description": "About appears in the story and plays a role that reflects their motivations or growth."
+      },
+      {
+        "name": "About Project",
+        "description": "About Project appears in the story and plays a role that reflects their motivations or growth."
+      },
+      {
+        "name": "Above",
+        "description": "Above appears in the story and plays a role that reflects their motivations or growth."
+      },
+      {
+        "name": "Absolutely",
+        "description": "Absolutely appears in the story and plays a role that reflects their motivations or growth."
+      },
+      {
+        "name": "Additional",
+        "description": "Additional appears in the story and plays a role that reflects their motivations or growth."
+      },
+      {
+        "name": "Adventures",
+        "description": "Adventures appears in the story and plays a role that reflects their motivations or growth."
+      },
+      {
+        "name": "Affrighted",
+        "description": "Affrighted appears in the story and plays a role that reflects their motivations or growth."
+      },
+      {
+        "name": "After",
+        "description": "After appears in the story and plays a role that reflects their motivations or growth."
+      },
+      {
+        "name": "Again",
+        "description": "Again appears in the story and plays a role that reflects their motivations or growth."
+      }
+    ]
+  }
+]
